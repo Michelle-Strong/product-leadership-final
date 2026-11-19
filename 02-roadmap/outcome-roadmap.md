@@ -18,6 +18,9 @@
 
 ## 2. Outcome roadmap
 
+<img width="427" height="568" alt="image" src="https://github.com/user-attachments/assets/13e04d04-2e12-4784-a7d8-e06a88fe27f5" />
+
+
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
 | Now (0 to 3 mo) | _____ | _____ | _____ |
