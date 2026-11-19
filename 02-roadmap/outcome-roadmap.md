@@ -20,36 +20,3 @@
 
 <img width="427" height="568" alt="image" src="https://github.com/user-attachments/assets/13e04d04-2e12-4784-a7d8-e06a88fe27f5" />
 
-
-| Horizon | Outcome / bet | Owning team(s) | Success signal |
-|---|---|---|---|
-| Now (0 to 3 mo) | _____ | _____ | _____ |
-| Next (3 to 6 mo) | _____ | _____ | _____ |
-| Later (6 to 12 mo) | _____ | _____ | _____ |
-
-
-# Outcome Roadmap & Trade-off Memo
-
-> Module 2 · Turn Your Strategy into an Outcome Roadmap
-
-## 1. Trade-off memo
-
-> **Rock 1:** _____
->
-> **Rock 2:** _____
->
-> **Rock 3:** _____
->
-> **Hard no 1:** _____
->
-> **Hard no 2:** _____
->
-> **Hard no 3:** _____
-
-## 2. Outcome roadmap
-
-| Horizon | Outcome / bet | Owning team(s) | Success signal |
-|---|---|---|---|
-| Now (0 to 3 mo) | _____ | _____ | _____ |
-| Next (3 to 6 mo) | _____ | _____ | _____ |
-| Later (6 to 12 mo) | _____ | _____ | _____ |
